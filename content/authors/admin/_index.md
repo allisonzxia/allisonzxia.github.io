@@ -29,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
+  - Machine Learning Fairness
   - Biostatistical Methods
 
 # Education to show in About widget
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Allison Xia is a Master Candidate in Biostatistics at Columbia University. Her research interests include machine learning fairness, biostatistical methods. 
 {style="text-align: justify;"}
