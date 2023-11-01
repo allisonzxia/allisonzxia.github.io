@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: zx2482@cumc.columbia.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/allisonzxia
