@@ -1,5 +1,5 @@
 ---
-title: "P8015 HW4 Problem 2"
+title: "Example"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
