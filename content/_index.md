@@ -66,8 +66,8 @@ sections:
           company: Flatiron Health
           company_url: ''
           location: New York, NY
-          date_start: '2021-09'
-          date_end: '2021-12'
+          date_start: '2021-09-10'
+          date_end: '2021-12-20'
           description: |2-
               Responsibilities include:
 
