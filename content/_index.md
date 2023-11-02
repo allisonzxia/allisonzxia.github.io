@@ -62,27 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Analyst Intern
+          company: Flatiron Health
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: New York, NY
+          date_start: '2021-09'
+          date_end: '2021-12'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * R Shiny Dashboard: To allow clients to understand performance and potential bias of a predictive model on patients receiving a specific advanced cancer medication, developed an interactive model assessment dashboard by adding 2 widgets and 4 assessment tabs
+              * Threshold Optimization: Ensured a robust and insightful model evaluation by identified the optimal threshold for the predictive modeling, leveraging a comparative study of various techniques and culminating in the application of ROC curve plotting and Youden’s Index
+              * ML Fairness Analysis: To improve ML fairness and utility across diverse populations, identified performance gaps for minority groups and proposed implementing differential misclassification costs to make misclassifying minority instances more penalizing 
     design:
       columns: '2'
 
